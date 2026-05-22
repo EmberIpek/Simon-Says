@@ -11,4 +11,5 @@ A linear feedback shit register (LSFR) function generate_array() is used with a 
 <img width="975" height="384" alt="image" src="https://github.com/user-attachments/assets/cca0ad29-9d28-4a1b-8150-872f1df1b70e" />
 
 Demo:
+
 [![Demo:](https://img.youtube.com/vi/f2eR-FYknnQ/default.jpg)](https://youtu.be/f2eR-FYknnQ)
